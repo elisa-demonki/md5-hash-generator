@@ -56,7 +56,7 @@ echo "<h2>MD5-Hash:</h2>";
 echo "<h3>". md5($_POST["passwort"]) ."</h3>";
  
 ?>
-    <p><small><!---Nach einer Idee von Webstylez: http://webstylez.net/Passwort-verschluesseln-in-PHP</small>--></p>
+    <p><small>Nach einer Idee von Webstylez: http://webstylez.net/Passwort-verschluesseln-in-PHP</small></p>
  
 </body>
 </html>
