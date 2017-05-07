@@ -4,7 +4,7 @@
         
         *{
             font-family:arial;
-            font-size:200%
+            font-size:100%
         }
         
 
